@@ -1,4 +1,4 @@
-# public-dd
+# dd-testing
 Scripts for managing a dd system and/or NBU, mostly used in testing.
 
 Most of these are made from one-liners from the now-deprecated wiki.  In the case of hostnames, usernames, passwords and the like
